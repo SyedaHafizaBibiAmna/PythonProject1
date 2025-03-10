@@ -3,6 +3,7 @@ import pandas as pd
 import os
 from io import BytesIO
 import numpy as np
+import openpyxl
 
 st.set_page_config(page_title="Data Detox", layout="wide")
 
